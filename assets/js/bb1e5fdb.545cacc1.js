@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfly_doc=self.webpackChunkfly_doc||[]).push([[200],{5690:function(s){s.exports=JSON.parse('{"updates":{"allTagsPath":"/fly-doc/blog/tags","slug":"updates","name":"updates","count":1,"permalink":"/fly-doc/blog/tags/updates"}}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfly_doc=self.webpackChunkfly_doc||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"08-11 \u66f4\u65b0","permalink":"/fly-doc/blog/08-11 \u66f4\u65b0"},{"title":"\u6b22\u8fce\uff01","permalink":"/fly-doc/blog/welcome"}]}')}}]);
